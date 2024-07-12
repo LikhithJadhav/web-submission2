@@ -30,7 +30,7 @@ const NoteForm = ({ addNote }) => {
           <input
             type="text"
             className="form-control"
-            placeholder="Take a note"
+            placeholder=" Take a note "
           />
         </div>
       ) : (
