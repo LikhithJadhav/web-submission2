@@ -36,3 +36,21 @@
     transform: rotate(360deg);
   }
 }
+.card {
+  margin-bottom: 15px;
+  margin-top: 15px ;
+}
+
+.form-check-label {
+  margin-left: 10px;
+  margin-right: 10px;
+}
+.bg-dark {
+  background-color: black !important;
+  color: #ffffff !important; 
+}
+
+.bg-light {
+  background-color: #ffffff !important; 
+  color: black !important; 
+}
